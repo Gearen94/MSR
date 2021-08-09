@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 7e4da7b15ee313047aef9dc31fa34826
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4157191183206146762
+    second: Marco Full Sprite_2
+  - first:
+      213: -1769912695614814234
+    second: Marco Full Sprite_3
+  - first:
+      213: 1683508592449157193
+    second: Marco Full Sprite_4
+  - first:
+      213: -5659787140524033734
+    second: Marco Full Sprite_5
+  - first:
+      213: 9075080580523238383
+    second: Marco Full Sprite_6
+  - first:
+      213: 7176433501384630021
+    second: Marco Full Sprite_7
+  - first:
+      213: -1828082585866890560
+    second: Marco Full Sprite_8
+  - first:
+      213: 1088687921266843984
+    second: Marco Full Sprite_9
+  - first:
+      213: -5015067718722914657
+    second: Marco Full Sprite_10
+  - first:
+      213: -4990283974453069815
+    second: Marco Full Sprite_11
+  - first:
+      213: 6482256546011046097
+    second: Marco Full Sprite_12
+  - first:
+      213: -1500460247829698352
+    second: Marco Full Sprite_13
+  - first:
+      213: 4297861721084103229
+    second: Marco Full Sprite_14
+  - first:
+      213: -774546349941743102
+    second: Marco Full Sprite_17
+  - first:
+      213: 65557496687546290
+    second: Marco Full Sprite_18
+  - first:
+      213: -627058530543871194
+    second: Marco Full Sprite_19
+  - first:
+      213: 995126255312761501
+    second: Marco Full Sprite_20
+  - first:
+      213: -5434846961365073335
+    second: Marco Full Sprite_21
+  - first:
+      213: 8692125607794022903
+    second: Marco Full Sprite_22
+  - first:
+      213: -1816170000916973690
+    second: Marco Full Sprite_23
+  - first:
+      213: 5180686215121251028
+    second: Marco Full Sprite_24
+  - first:
+      213: -8255427328641583419
+    second: Marco Full Sprite_25
+  - first:
+      213: -4745327811714501754
+    second: Marco Full Sprite_26
+  - first:
+      213: -7349323552159780948
+    second: Marco Full Sprite_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marco Full Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1277
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5842777, y: 1.0361735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462f3ecb44f8cfc20800000000000000
+      internalID: 3241623357189517924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1275
+        width: 15
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5437785, y: 0.9812988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8ea7aa9743e8aa0800000000000000
+      internalID: -6156925943413020444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1275
+        width: 21
+        height: 21
+      alignment: 9
+      pivot: {x: 0.589107, y: 0.9717727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2636afa5f41b930800000000000000
+      internalID: 4157191183206146762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1279
+        width: 31
+        height: 16
+      alignment: 9
+      pivot: {x: 0.4685157, y: 0.9626312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7cc6ed7c10077e0800000000000000
+      internalID: -1769912695614814234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1277
+        width: 26
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5594412, y: 0.9654473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948ff3d25260d5710800000000000000
+      internalID: 1683508592449157193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1252
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5854051, y: 1.0468886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39bdb025956471b0800000000000000
+      internalID: -5659787140524033734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1249
+        width: 15
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5634847, y: 0.971918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe32226c4b921fd70800000000000000
+      internalID: 9075080580523238383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1250
+        width: 21
+        height: 20
+      alignment: 9
+      pivot: {x: 0.58925664, y: 0.9694397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f5e344f30d79360800000000000000
+      internalID: 7176433501384630021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1253
+        width: 31
+        height: 16
+      alignment: 9
+      pivot: {x: 0.40367964, y: 0.96852875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c29351e29851a6e0800000000000000
+      internalID: -1828082585866890560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1251
+        width: 26
+        height: 18
+      alignment: 9
+      pivot: {x: 0.55864304, y: 0.9729411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0516e5275ebcb1f00800000000000000
+      internalID: 1088687921266843984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1313
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96fdf41b76e66ab0800000000000000
+      internalID: -5015067718722914657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1313
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90876663a23febab0800000000000000
+      internalID: -4990283974453069815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1313
+        width: 32
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d060ffebf995f950800000000000000
+      internalID: 6482256546011046097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1312
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d82488ba5b4d2be0800000000000000
+      internalID: -1500460247829698352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1314
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a87fad67215ab30800000000000000
+      internalID: 4297861721084103229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1273
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.62943184, y: 0.97527343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2fdb22f6d6e9760800000000000000
+      internalID: 7466525556318532274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1273
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0.57377625, y: 0.9783789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26973945478b60620800000000000000
+      internalID: 2740080233076193634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1279
+        width: 21
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5480754, y: 0.97527343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202a5adc2324045f0800000000000000
+      internalID: -774546349941743102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1273
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0.57377625, y: 0.9783789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfcc662238e8e000800000000000000
+      internalID: 65557496687546290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1273
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.6121758, y: 0.9783789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bdd89b69d3c47f0800000000000000
+      internalID: -627058530543871194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1280
+        width: 21
+        height: 17
+      alignment: 9
+      pivot: {x: 0.64422315, y: 0.96595675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92f49a8e066fcd00800000000000000
+      internalID: 995126255312761501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1280
+        width: 21
+        height: 17
+      alignment: 9
+      pivot: {x: 0.65162003, y: 0.96595675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9424933db7b8394b0800000000000000
+      internalID: -5434846961365073335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 567
+        width: 49
+        height: 23
+      alignment: 9
+      pivot: {x: 0.2751801, y: 0.06798255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f993abff22a0a870800000000000000
+      internalID: 8692125607794022903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 565
+        width: 50
+        height: 23
+      alignment: 9
+      pivot: {x: 0.2504535, y: 0.06546418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6877f93b10babc6e0800000000000000
+      internalID: -1816170000916973690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 563
+        width: 36
+        height: 25
+      alignment: 9
+      pivot: {x: 0.42528534, y: 0.06656983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4daa0190aae75e740800000000000000
+      internalID: 5180686215121251028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 597
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.6394922, y: 0.21250203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6344f6594de6d80800000000000000
+      internalID: -8255427328641583419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 590
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: 0.47695366, y: 0.28654897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683b9ff3f75352eb0800000000000000
+      internalID: -4745327811714501754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marco Full Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 627
+        width: 43
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4955228, y: 0.1235121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafaa1eea25f10a90800000000000000
+      internalID: -7349323552159780948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a98c9a5cfd8bb63488d06a5bcb1bc971
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
